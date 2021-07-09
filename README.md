@@ -1,6 +1,8 @@
 # Sentiment_analysis
 ## Dataset Description
 
+Link : https://www.kaggle.com/deadskull7/fer2013
+
 While building a deep learning model everything starts with an appropriate set of data. The dataset that has been used is a Facial Expression Recognition Challenge Dataset (FER2013). The data consists of 48 x 48-pixel grayscale image of face with seven categories of facial expression (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral) (Kaggle,2013). This dataset consists of 28,709 set of images labeled as training set. The data has been spitted into the two training and test set in the ration of 80% by 20% form training and evaluation. Whereas for the training some random image inputs were given in order to check the accuracy of the model. 
 
 ### RELU Model Performance
