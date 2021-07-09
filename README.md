@@ -34,7 +34,7 @@ Confusion Metrix:
 
 ![image](https://user-images.githubusercontent.com/66167662/125065563-ac64b580-e0d1-11eb-892b-6e75254e4aed.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/66167662/125065811-02d1f400-e0d2-11eb-97cf-86618250fa20.png)
 
 # Final Comparative Study
 
